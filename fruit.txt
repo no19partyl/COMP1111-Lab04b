@@ -1,6 +1,6 @@
 cellphone
 computer
 princer
-power bankbb
-penbb
-tissuebb
+power bank
+pen
+tissue
