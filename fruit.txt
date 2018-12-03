@@ -4,3 +4,6 @@ princer
 power bank
 pen
 tissue
+orange
+watermelon
+mango
