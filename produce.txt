@@ -4,3 +4,6 @@ printer
 apple
 three
 banana
+keyboard
+headset
+mouse
