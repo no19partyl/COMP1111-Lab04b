@@ -4,3 +4,6 @@ printer
 applee
 threee
 bananaa
+keyboard
+headset
+mouse
