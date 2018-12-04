@@ -1,6 +1,9 @@
-juicer
+night
 computer
 rice cooker
 air Conditioner
 water heater
 electric fan
+apple juice
+pan
+clock
