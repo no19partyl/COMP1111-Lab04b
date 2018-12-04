@@ -1,6 +1,6 @@
 callphone
 computer
 printer
-applee
-threee
-bananaa
+apple
+three
+banana
